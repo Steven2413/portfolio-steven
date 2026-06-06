@@ -16,11 +16,11 @@
 export default {
   // Basic site information
   title: {
-    en: "Morethan-Log",
+    en: "Steven Valdez Portafolio",
     ru: "Morethan-Log"
   },
   description: {
-    en: "A modern blog template built with Astro - fast, responsive, and multilingual",
+    en: "Application Developer",
     ru: "Современный шаблон блога на Astro - быстрый, адаптивный и многоязычный"
   },
   siteUrl: "https://morethan-log-astro.sereja.com", // Used for RSS, sitemap, and social cards
@@ -47,13 +47,9 @@ export default {
   // Now supports language-specific links
   socialLinks: {
     en: {
-      github: "https://github.com/yourusername",
-      twitter: "https://x.com/yourusername",
-      linkedin: "https://linkedin.com/in/yourusername",
-      telegram: "https://t.me/yourusername",
-      tiktok: "https://www.tiktok.com/@yourusername",
-      instagram: "https://www.instagram.com/yourusername/",
-      youtube: "https://www.youtube.com/@yourusername",
+      github: "https://github.com/dashboard",
+      twitter: "https://x.com/home",
+      instagram: "https://www.instagram.com/valdez.s13/",
       twitch: "https://www.twitch.tv/yourusername",
       // Add or remove social links as needed
     },
