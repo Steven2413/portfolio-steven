@@ -9,26 +9,43 @@ hreflang_en: '/about/'
 hreflang_ru: '/ru/about/'
 ---
 
-"Soy Steven Valdez, programador. En mi portafolio muestro todos mis proyectos donde aplico mis conocimientos en desarrollo web. Creo soluciones usando tecnologías modernas como HTML, CSS y JavaScript. Te invito a ver mis trabajos y contactarme si necesitas un desarrollador."
+👋 ¡Hola! Soy Steven Valdez
+Estudiante de Desarrollo de Apps Multiplataforma con una gran pasión por la tecnología y el desarrollo de software.
+
+Me gusta transformar ideas en soluciones digitales funcionales, intuitivas y eficientes, prestando atención tanto al diseño de la interfaz como a la lógica que impulsa cada aplicación.
+
+Actualmente me encuentro fortaleciendo mis conocimientos a través de proyectos académicos y personales, los cuales utilizo para ampliar mi experiencia práctica, explorar nuevas tecnologías y mejorar continuamente mis habilidades como desarrollador.
 
 
+**💻 Habilidades Técnicas**
 
-## Habilidades Principales
+A lo largo de mi formación he adquirido experiencia en diferentes tecnologías utilizadas en el desarrollo web y de aplicaciones:
 
-- 🌐 HTML, CSS, JavaScript: Dominio de las tecnologías fundamentales del desarrollo web.
-- 🤝 Colaboración: Habilidad para trabajar en equipo y contribuir al éxito de los proyectos.
+***Frontend:***
 
-## Idioma
-
-1. HTML
-2. JavaScript
-
-## Estilo
-
+- HTML
 - CSS
+- JavaScript
+- TypeScript
+- Astro
 
-## Contacto
+***Backend:***
 
-- 🅾  𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦 ★: https://www.instagram.com/valdez.s13/
-- 📩 Gmail: Bierd1324@gmail.com
-- GitHub: https://github.com/dashboard
+- PHP
+- Laravel
+
+***Bases de datos:***
+
+- MySQL
+- SQLite
+
+***Herramientas:***
+- GitHub
+- Excel Avanzado
+
+***Contacto***
+
+- 📷 Instagram: https://www.instagram.com/valdez.s13/
+- 📧 Correo: valdezbierd13@icloud.com
+- 💻 GitHub: https://github.com/Steven2413
+- 🌐 Portafolio: https://steven-port4lio.netlify.app/

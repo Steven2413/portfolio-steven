@@ -1,7 +1,7 @@
 ---
 layout: '../../layouts/Post.astro'
 title: 'Remote '
-h1: 'Calculo de Prestacione'
+h1: 'Calculo'
 date: 03.03.2024
 custom_category: 'blog'
 hreflang_en: '/blog/remote-work-tips/'
